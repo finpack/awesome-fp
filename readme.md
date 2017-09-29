@@ -6,8 +6,11 @@
 ## Contents
 
 - [Category Theory](#category-theory)
-- [Another Section](#another-section)
-
+- [Building blocks](#building-blocks)
+- [Good practices](#good-practices)
+- [Testimonials](#testimonials)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Category Theory
 
@@ -22,13 +25,39 @@ Foundations of the Functional Programming.
 - [Blog posts by Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
 
-## Another Section
+## Building blocks
 
-### Subsection
+Building blocks and concepts of Functional Programming demonstrated and in practice.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Free Monads
+- ["MAKE YOUR PROGRAMS FREE (FREE LIKE FREEDOM, NOT BEER)" by Paweł Szulc](https://www.youtube.com/watch?v=OSfz6s4VZ6Q)
 
+### Free Applicatives
+
+- ["Move Over Free Monads - Make Way for Free Applicatives!" by John de Goes](https://www.youtube.com/watch?v=H28QqxO7Ihc)
+
+### Free Arrows
+
+- ["Do it with (free) arrows!" by Julien Richard Foy](https://www.youtube.com/watch?v=PWBTOhMemxQ)
+
+
+## Good practices
+
+Possibly this name might change... The idea is to collect here library usages, tips, how-to's,...
+
+- ["VALIDATION WITH CATS AND SCALAZ" by Łukasz Indykiewicz](https://www.youtube.com/watch?v=qbHUGGtCd-M)
+- ["Decorate your types with refined" by Frank Thomas](https://www.youtube.com/watch?v=zExb9x3fzKs)
+- ["Type Classes in Scala" by Łukasz Indykiewicz](https://www.youtube.com/watch?v=A5t6WagltAc)
+
+## Testimonials
+
+Section for people sharing their experience after embracing Functional Programming in their projects. Particularly interesting are projects in the domain of FinPack / Morizon Finanse (finance and real estate).
+The main point is that the scope of these resoucrces are *projects* rather than *building blocks*.
+
+- ["A Year living Freely" by Chris Myers](https://www.youtube.com/watch?v=rK53C-xyPWw)
+- ["Growing a DSL for financial calculations" by Jan Ouwens](https://www.youtube.com/watch?v=W37Mp3mBYLw)
+– ["End to End and On The Level" by Dave Gurnell](https://www.youtube.com/watch?v=lMW_yMkxX4Q)
+- ["Programs as Values - JDBC Programming with Doobie" by Rob Norris](https://www.youtube.com/watch?v=M5MF6M7FHPo)
 
 ## Contribute
 
