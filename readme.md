@@ -6,7 +6,7 @@
 ## Contents
 
 - [Category Theory](#category-theory)
-- [Building blocks](#building-blocks)
+- [Building blocks in Scala](#building-blocks-in-scala)
 - [Good practices](#good-practices)
 - [Testimonials](#testimonials)
 - [Contribute](#contribute)
@@ -25,7 +25,7 @@ Foundations of the Functional Programming.
 - [Blog posts by Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
 
-## Building blocks
+## Building blocks in Scala
 
 Building blocks and concepts of Functional Programming demonstrated and in practice.
 
