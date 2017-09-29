@@ -5,16 +5,21 @@
 
 ## Contents
 
-- [Section](#section)
+- [Category Theory](#category-theory)
 - [Another Section](#another-section)
 
 
-## Section
+## Category Theory
 
-About this section. Optional. Keep this short and focus on the list.
+Foundations of the Functional Programming.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### YouTube videos
+
+- [Lectures by Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+
+### Blog posts
+
+- [Blog posts by Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
 
 ## Another Section
