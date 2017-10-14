@@ -48,6 +48,7 @@ Possibly this name might change... The idea is to collect here library usages, t
 - ["VALIDATION WITH CATS AND SCALAZ" by Łukasz Indykiewicz](https://www.youtube.com/watch?v=qbHUGGtCd-M)
 - ["Decorate your types with refined" by Frank Thomas](https://www.youtube.com/watch?v=zExb9x3fzKs)
 - ["Type Classes in Scala" by Łukasz Indykiewicz](https://www.youtube.com/watch?v=A5t6WagltAc)
+- ["An Algebraic Approach to Functional Domain Modeling" by Debasish Ghosh](https://www.youtube.com/watch?v=0q-w16pOuyc)
 
 ## Testimonials
 
