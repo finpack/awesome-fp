@@ -40,6 +40,10 @@ Building blocks and concepts of Functional Programming demonstrated and in pract
 
 - ["Do it with (free) arrows!" by Julien Richard Foy](https://www.youtube.com/watch?v=PWBTOhMemxQ)
 
+### Others
+
+- ["Intro to FP in Scala: Exploring a Toolbox for Solving Problems - Part 1 of 6 - λC 2017" by Pawel Szulc](https://www.youtube.com/watch?v=jQ65HiG5m3c)
+
 
 ## Good practices
 
