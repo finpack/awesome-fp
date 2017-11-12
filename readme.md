@@ -47,8 +47,6 @@ Building blocks and concepts of Functional Programming demonstrated and in pract
 
 ## Good practices
 
-Possibly this name might change... The idea is to collect here library usages, tips, how-to's,...
-
 - ["VALIDATION WITH CATS AND SCALAZ" by Łukasz Indykiewicz](https://www.youtube.com/watch?v=qbHUGGtCd-M)
 - ["Decorate your types with refined" by Frank Thomas](https://www.youtube.com/watch?v=zExb9x3fzKs)
 - ["Type Classes in Scala" by Łukasz Indykiewicz](https://www.youtube.com/watch?v=A5t6WagltAc)
