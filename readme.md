@@ -53,6 +53,7 @@ Possibly this name might change... The idea is to collect here library usages, t
 - ["Decorate your types with refined" by Frank Thomas](https://www.youtube.com/watch?v=zExb9x3fzKs)
 - ["Type Classes in Scala" by Łukasz Indykiewicz](https://www.youtube.com/watch?v=A5t6WagltAc)
 - ["An Algebraic Approach to Functional Domain Modeling" by Debasish Ghosh](https://www.youtube.com/watch?v=0q-w16pOuyc)
+- ["Plain Functional Programming" by Martin Odersky](https://www.youtube.com/watch?time_continue=12&v=YXDm3WHZT5g)
 
 ## Testimonials
 
