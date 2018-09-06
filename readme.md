@@ -9,6 +9,7 @@
 - [Building blocks in Scala](#building-blocks-in-scala)
 - [Good practices](#good-practices)
 - [Testimonials](#testimonials)
+- [Books](#books)
 - [Others](#others)
 - [Contribute](#contribute)
 - [License](#license)
@@ -67,6 +68,11 @@ The main point is that the scope of these resoucrces are *projects* rather than 
 - ["Growing a DSL for financial calculations" by Jan Ouwens](https://www.youtube.com/watch?v=W37Mp3mBYLw)
 – ["End to End and On The Level" by Dave Gurnell](https://www.youtube.com/watch?v=lMW_yMkxX4Q)
 - ["Programs as Values - JDBC Programming with Doobie" by Rob Norris](https://www.youtube.com/watch?v=M5MF6M7FHPo)
+
+## Books
+
+- ["Functional Programming in Scala" by Paul Chiusano and Rúnar Bjarnason](https://www.manning.com/books/functional-programming-in-scala)
+- ["Scala with Cats" by Noel Welsh and Dave Gurnell](https://underscore.io/books/scala-with-cats/) (free ebook)
 
 ## Others
 
