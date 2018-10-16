@@ -25,7 +25,7 @@ Foundations of the Functional Programming.
 ### Blog posts
 
 - [Blog posts by Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
-
+- [Category Theory: Lecture Notes and Online Books](https://www.logicmatters.net/categories/)
 
 ## Building blocks in Scala
 
